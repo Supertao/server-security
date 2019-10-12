@@ -47,7 +47,7 @@ fi
 
 . ./output_lib.sh
 
-
+#必须是root来运行
 ID=$(id -u)
 
 if [ "x$ID"!="x0" ];then
