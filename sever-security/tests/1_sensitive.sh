@@ -29,12 +29,26 @@ check_1_1()
   	 #搜索到并再次判断
          encrypted=`cat $i|grep -i "ENCRYPTED"`
          if [ ! -n "$encrypted" ];then
-		#totalWarn = $totalWarn+1
+	 	let totalWarn+=1
          	warn "$i not encrypted!"
 	 fi
    fi   
    done
+   let totalCheck+=1
+}
+
+check_1_2()
+{
+	log ""
+   	id_1_2="1.2"
+   	desc_1_2="/etc/shadow 是否存在MD5|SHA256"
+   	check_1_2="$id_1_2  $desc_1_2"
+   	info "$check_1_2"
+	cat /etc/shadow|awk -F: '{print $1,$2}'|awk -F$ '{if($2==1||$2==5||$2==6)print}'
+
+	let totalCheck+=1	
 }
 
 check_1
 check_1_1
+check_1_2

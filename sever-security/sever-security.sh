@@ -57,7 +57,7 @@ fi
 
 #Total Score
 #Warn count, Pass counts
-totalChecks=0
+totalCheck=0
 totalWarn=0
 totalPass=0
 
@@ -72,7 +72,7 @@ done
 
 printf "\n"
 
-info "Total Checks:$totalChecks"
+info "Total Checks:$totalCheck"
 info "Warn Checks:$totalWarn"
 info "Pass Checks:$totalPass"
 
