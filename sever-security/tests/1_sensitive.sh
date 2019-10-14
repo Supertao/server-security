@@ -44,11 +44,35 @@ check_1_2()
    	desc_1_2="/etc/shadow 是否存在MD5|SHA256"
    	check_1_2="$id_1_2  $desc_1_2"
    	info "$check_1_2"
-	cat /etc/shadow|awk -F: '{print $1,$2}'|awk -F$ '{if($2==1||$2==5||$2==6)print}'
+	shadow=$(cat /etc/shadow|awk -F: '{print $1,$2}' | awk -F$$ '{if($2==1||$2==5||$2==6)print}')
+	for i in $shadow;do
+		let totalWarn+=1
+		warn "/etc/shadow $i"
+	done
+        #搜索结果很man
+	for i in $(find / -name "*.sh" -print0|xargs -0 grep "\$[156]\\$" 2>/dev/null);do
+		let totalWarn+=1
+		warn "file exists MD5|SHA256 $i"
+	done
+        
+	let totalCheck+=1		
+}
 
-	let totalCheck+=1	
+check_1_3()
+{
+        log ""
+        id_1_3="1.3"
+        desc_1_3="是否存在敏感密码"
+        check_1_3="$id_1_3  $desc_1_3"
+        info "$check_1_3"
+        
+	        
+
+
+
 }
 
 check_1
 check_1_1
 check_1_2
+check_1_3
