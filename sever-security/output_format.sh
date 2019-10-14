@@ -7,7 +7,16 @@ bldblu='\033[1;34m'
 bldylw='\033[1;33m' # Yellow
 txtrst='\033[0m'
 
+log()
+{
+	printf "%b\n" "${txtrst} $1"|tee -a "$output"
+}
 
+
+info()
+{
+	printf "%b\n" "${bldblu}[INFO]${txtrst} $1" | tee -a "$output"
+}
 
 warn()
 {

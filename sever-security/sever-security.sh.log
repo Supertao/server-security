@@ -1,2 +1,407 @@
 [1;31m[WARN][0m Some opeate must root to do.
 [1;31m[WARN][0m Some opeate must root to do.
+[1;31m[WARN][0m Some opeate must root to do.
+[1;31m[WARN][0m Some opeate must root to do.
+[0m Security Check 2019年 10月 13日 星期日 20:08:53 EDT
+
+[1;31m[WARN][0m Some opeate must root to do.
+[0m Security Check 2019年 10月 13日 星期日 20:09:13 EDT
+
+[0m Security Check 2019年 10月 13日 星期日 20:10:47 EDT
+
+[0m Security Check 2019年 10月 13日 星期日 20:45:03 EDT
+
+[0m Security Check 2019年 10月 13日 星期日 20:45:52 EDT
+
+[0m Security Check 2019年 10月 13日 星期日 20:46:26 EDT
+
+[0m Security Check 2019年 10月 13日 星期日 20:47:36 EDT
+
+[0m Security Check 2019年 10月 13日 星期日 20:48:28 EDT
+
+[0m Security Check 2019年 10月 13日 星期日 20:50:14 EDT
+
+[0m 
+[1;34m[INFO][0m 
+[0m 
+[1;34m[INFO][0m 
+[1;31m[WARN][0m /usr/share/responder/certs/responder.key not encrypted!
+[1;31m[WARN][0m /usr/share/metasploit-framework/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/tests/client.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/twisted/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/asyncio/cert.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/eventlet/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/curio/localhost.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/tornado/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /root/Downloads/webssh-master/tests/data/test_rsa.key not encrypted!
+[0m Security Check 2019年 10月 13日 星期日 20:54:15 EDT
+
+[0m 
+[1;34m[INFO][0m 
+[0m 
+[1;34m[INFO][0m 
+[1;31m[WARN][0m /usr/share/responder/certs/responder.key not encrypted!
+[1;31m[WARN][0m /usr/share/metasploit-framework/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/tests/client.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/twisted/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/asyncio/cert.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/eventlet/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/curio/localhost.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/tornado/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /root/Downloads/webssh-master/tests/data/test_rsa.key not encrypted!
+[1;31m[WARN][0m /root/Downloads/webssh-master/tests/data/test_rsa.log not encrypted!
+[0m Security Check 2019年 10月 13日 星期日 20:59:12 EDT
+
+[0m 
+[1;34m[INFO][0m 
+[0m 
+[1;34m[INFO][0m 
+[1;31m[WARN][0m /usr/share/responder/certs/responder.key not encrypted!
+[1;31m[WARN][0m /usr/share/metasploit-framework/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/tests/client.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/twisted/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/asyncio/cert.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/eventlet/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/curio/localhost.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/tornado/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /root/Downloads/webssh-master/tests/data/test_rsa.key not encrypted!
+[1;31m[WARN][0m /root/Downloads/webssh-master/tests/data/test_rsa.log not encrypted!
+[0m Security Check 2019年 10月 13日 星期日 21:01:45 EDT
+
+[0m 
+[1;34m[INFO][0m $check_1
+[0m 
+[1;34m[INFO][0m $check_1_1
+[1;34m[INFO][0m /usr/share/responder/certs/responder.key not encrypted!
+[1;34m[INFO][0m /usr/share/metasploit-framework/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/tests/client.key not encrypted!
+[1;34m[INFO][0m /usr/share/doc/python3-h2/examples/twisted/server.key not encrypted!
+[1;34m[INFO][0m /usr/share/doc/python3-h2/examples/asyncio/cert.key not encrypted!
+[1;34m[INFO][0m /usr/share/doc/python3-h2/examples/eventlet/server.key not encrypted!
+[1;34m[INFO][0m /usr/share/doc/python3-h2/examples/curio/localhost.key not encrypted!
+[1;34m[INFO][0m /usr/share/doc/python3-h2/examples/tornado/server.key not encrypted!
+[1;34m[INFO][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;34m[INFO][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;34m[INFO][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;34m[INFO][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;34m[INFO][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;34m[INFO][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;34m[INFO][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;34m[INFO][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;34m[INFO][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;34m[INFO][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;34m[INFO][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;34m[INFO][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;34m[INFO][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;34m[INFO][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;34m[INFO][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;34m[INFO][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;34m[INFO][0m /root/Downloads/webssh-master/tests/data/test_rsa.key not encrypted!
+[1;34m[INFO][0m /root/Downloads/webssh-master/tests/data/test_rsa.log not encrypted!
+[0m Security Check 2019年 10月 13日 星期日 21:04:28 EDT
+
+[0m 
+[1;34m[INFO][0m 
+[0m 
+[1;34m[INFO][0m 
+[1;31m[WARN][0m /usr/share/responder/certs/responder.key not encrypted!
+[1;31m[WARN][0m /usr/share/metasploit-framework/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/tests/client.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/twisted/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/asyncio/cert.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/eventlet/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/curio/localhost.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/tornado/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /root/Downloads/webssh-master/tests/data/test_rsa.key not encrypted!
+[1;31m[WARN][0m /root/Downloads/webssh-master/tests/data/test_rsa.log not encrypted!
+[0m Security Check 2019年 10月 13日 星期日 21:06:08 EDT
+
+[0m 
+[1;34m[INFO][0m 1 - Sensitive Find
+[0m 
+[1;34m[INFO][0m 1.1 - ...明文存储...
+[1;31m[WARN][0m /usr/share/responder/certs/responder.key not encrypted!
+[1;31m[WARN][0m /usr/share/metasploit-framework/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/tests/client.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/twisted/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/asyncio/cert.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/eventlet/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/curio/localhost.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/tornado/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /root/Downloads/webssh-master/tests/data/test_rsa.key not encrypted!
+[1;31m[WARN][0m /root/Downloads/webssh-master/tests/data/test_rsa.log not encrypted!
+[0m Security Check 2019年 10月 13日 星期日 21:06:18 EDT
+
+[0m 
+[1;34m[INFO][0m 1 - Sensitive Find
+[0m 
+[1;34m[INFO][0m 1.1 - ...明文存储...
+[1;31m[WARN][0m /usr/share/responder/certs/responder.key not encrypted!
+[1;31m[WARN][0m /usr/share/metasploit-framework/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/tests/client.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/twisted/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/asyncio/cert.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/eventlet/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/curio/localhost.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/tornado/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /root/Downloads/webssh-master/tests/data/test_rsa.key not encrypted!
+[1;31m[WARN][0m /root/Downloads/webssh-master/tests/data/test_rsa.log not encrypted!
+[0m Security Check 2019年 10月 13日 星期日 21:13:29 EDT
+
+[0m 
+[1;34m[INFO][0m 1 - 敏感词、敏感文件
+[0m 
+[1;34m[INFO][0m 1.1  ...明文存储...
+[1;31m[WARN][0m /usr/share/responder/certs/responder.key not encrypted!
+[1;31m[WARN][0m /usr/share/metasploit-framework/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/tests/client.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/twisted/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/asyncio/cert.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/eventlet/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/curio/localhost.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/tornado/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /root/Downloads/webssh-master/tests/data/test_rsa.key not encrypted!
+[1;31m[WARN][0m /root/Downloads/webssh-master/tests/data/test_rsa.log not encrypted!
+[1;34m[INFO][0m Total Checks:0
+[1;34m[INFO][0m Warn Checks:0
+[1;34m[INFO][0m Pass Checks:0
+[0m Security Check 2019年 10月 13日 星期日 21:16:36 EDT
+
+[0m 
+[1;34m[INFO][0m 1  敏感词、敏感文件
+[0m 
+[1;34m[INFO][0m 1.1  明文存储
+[1;31m[WARN][0m /usr/share/responder/certs/responder.key not encrypted!
+[1;31m[WARN][0m /usr/share/metasploit-framework/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/tests/client.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/twisted/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/asyncio/cert.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/eventlet/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/curio/localhost.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/tornado/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /root/Downloads/webssh-master/tests/data/test_rsa.key not encrypted!
+[1;31m[WARN][0m /root/Downloads/webssh-master/tests/data/test_rsa.log not encrypted!
+[1;34m[INFO][0m Total Checks:0
+[1;34m[INFO][0m Warn Checks:0
+[1;34m[INFO][0m Pass Checks:0
+[0m Security Check 2019年 10月 13日 星期日 21:25:12 EDT
+
+[0m 
+[1;34m[INFO][0m 1  敏感词、敏感文件
+[0m 
+[1;34m[INFO][0m 1.1  明文存储
+[1;31m[WARN][0m /usr/share/responder/certs/responder.key not encrypted!
+[1;31m[WARN][0m /usr/share/metasploit-framework/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/tests/client.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/twisted/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/asyncio/cert.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/eventlet/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/curio/localhost.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/tornado/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /root/Downloads/webssh-master/tests/data/test_rsa.key not encrypted!
+[1;31m[WARN][0m /root/Downloads/webssh-master/tests/data/test_rsa.log not encrypted!
+[1;34m[INFO][0m Total Checks:0
+[1;34m[INFO][0m Warn Checks:0
+[1;34m[INFO][0m Pass Checks:0
+[0m Security Check 2019年 10月 13日 星期日 21:26:28 EDT
+
+[0m 
+[1;34m[INFO][0m 1  敏感词、敏感文件
+[0m 
+[1;34m[INFO][0m 1.1  明文存储
+[1;31m[WARN][0m /usr/share/responder/certs/responder.key not encrypted!
+[1;31m[WARN][0m /usr/share/metasploit-framework/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/tests/client.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/twisted/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/asyncio/cert.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/eventlet/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/curio/localhost.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/tornado/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /root/Downloads/webssh-master/tests/data/test_rsa.key not encrypted!
+[1;31m[WARN][0m /root/Downloads/webssh-master/tests/data/test_rsa.log not encrypted!
+[1;34m[INFO][0m Total Checks:0
+[1;34m[INFO][0m Warn Checks:0
+[1;34m[INFO][0m Pass Checks:0
+[0m Security Check 2019年 10月 13日 星期日 21:27:00 EDT
+
+[0m 
+[1;34m[INFO][0m 1  敏感词、敏感文件
+[0m 
+[1;34m[INFO][0m 1.1  明文存储
+[1;31m[WARN][0m /usr/share/responder/certs/responder.key not encrypted!
+[1;31m[WARN][0m /usr/share/metasploit-framework/vendor/bundle/ruby/2.5.0/gems/eventmachine-1.2.7/tests/client.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/twisted/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/asyncio/cert.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/eventlet/server.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/curio/localhost.key not encrypted!
+[1;31m[WARN][0m /usr/share/doc/python3-h2/examples/tornado/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/agent/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/http-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/pac-proxy-agent/node_modules/get-uri/test/server.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/https-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/socks-proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /opt/node/lib/node_modules/pm2/node_modules/@pm2/io/node_modules/@pm2/agent-node/node_modules/proxy-agent/node_modules/agent-base/test/ssl-cert-snakeoil.key not encrypted!
+[1;31m[WARN][0m /root/Downloads/webssh-master/tests/data/test_rsa.key not encrypted!
+[1;31m[WARN][0m /root/Downloads/webssh-master/tests/data/test_rsa.log not encrypted!
+[1;34m[INFO][0m Total Checks:0
+[1;34m[INFO][0m Warn Checks:0
+[1;34m[INFO][0m Pass Checks:0
