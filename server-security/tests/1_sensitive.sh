@@ -50,7 +50,7 @@ check_1_2()
 		warn "/etc/shadow $i"
 	done
         #搜索结果很man
-	for i in $(find / -name "*.sh" -print0|xargs -0 grep "\$[156]\\$" 2>/dev/null);do
+	for i in $(find / -name "*.sh" -print0|xargs -0 grep "\$[156]\\$" >/dev/null 2>&1);do
 		let totalWarn+=1
 		warn "file exists MD5|SHA256 $i"
 	done

@@ -12,6 +12,10 @@ log()
 	printf "%b\n" "${txtrst} $1"|tee -a "$output"
 }
 
+pass()
+{
+	printf "%b\n" "${bldgrn}[PASS]${txtrst} $1"|tee -a "$output"
+}
 
 info()
 {
@@ -21,4 +25,9 @@ info()
 warn()
 {
 	printf "%b\n" "${bldred}[WARN]${txtrst} $1" | tee -a "$output"
+}
+
+note()
+{
+	printf "%b\n" "${bldylw}[note]${txtrst} $1"|tee -a "$output"
 }

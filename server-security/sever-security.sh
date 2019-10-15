@@ -14,7 +14,7 @@ readonly version
 readonly filename
 
 
-require_install='awk grep stat'
+require_install='awk grep stat lsof'
 
 for q in $require_install;do
 	command -v "$q" >/dev/null 2>&1 || { printf "%s command not found.\n" "$q"; exit 1; }
