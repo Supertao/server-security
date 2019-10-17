@@ -99,14 +99,38 @@ check_2_3_2()
 
 	for i in $(find / -xdev \( -nouser -o -nogroup \) -print);do
 		if [ -n "$i" ];then
-			warn "存在无用户无组织的文件 $i"
+			warn "nouser or nogroup: $i"
 			let totalWarn+=1
 		else
-			pass "不存在无用户无组织的文件"
+			pass "not exists nouser and nogroup!"
 		fi
 	done
 
 	let totalCheck+=1
+}
+
+
+check_2_3_3()
+{
+      	log ""
+	id_2_3_3="2.3.3"
+	desc_2_3_3="系统账号(root|sync|shutdown|halt)是否远程登录"
+	check_2_3_3="$id_2_3_3 $desc_2_3_3"
+	info "$check_2_3_3"
+
+	#\+：匹配前面的字符至少1次
+	for i in $(egrep -v "^\+" /etc/passwd | awk -F: '( $1 =="root" || $1=="sync" || $1=="shutdown" || $1=="halt" && $3<500 && $7!="/usr/sbin/nologin")');do
+		if [ -n "$i" ];then
+			warn "存在系统账号远程登录: $i"
+			let totalWarn+=1
+		else
+			pass "不存在系统账号远程登录!"
+		fi
+	done
+
+	let totalCheck+=1
+
+
 }
 
 
@@ -118,3 +142,4 @@ check_2_2
 check_2_3
 check_2_3_1
 check_2_3_2
+check_2_3_3
