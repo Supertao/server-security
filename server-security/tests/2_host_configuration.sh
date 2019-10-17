@@ -24,6 +24,8 @@ check_2_1(){
 
 }
 
+
+
 check_2_2(){
         #useradd -u 0 -g 0 用户名
         log ""
@@ -47,8 +49,72 @@ check_2_2(){
 
 }
 
+check_2_3()
+{
+   	log ""
+   	id_2_3="2.3"
+   	desc_2_3="是否存在空密码用户"
+   	check_2_3="$id_2_3  $desc_2_3"
+   	info "$check_2_3"
+   	for i in $(awk -F: '($2==""){print}' /etc/shadow);do
+		if [ -n "$i" ];then
+   			warn "存在空密码 $i"
+			let totalWarn+=1
+		else
+			pass "不存在空密码"
+		fi
+  	done
+
+	let totalCheck+=1
+}
+
+check_2_3_1()
+{
+	log ""
+	id_2_3_1="2.3.1"
+	desc_2_3_1="是否存在test账号"
+	check_2_3_1="$id_2_3_1 $desc_2_3_1"
+	info "$check_2_3_1"
+
+	for i in $(cat /etc/passwd | grep "test*");do
+		if [ -n "$i" ];then
+			warn "存在测试账号 $i"
+			let totalWarn+=1
+		else
+			pass "不存在测试账号"
+		fi
+	done
+
+	let totalCheck+=1
+}
+
+
+check_2_3_2()
+{
+	log ""
+	id_2_3_2="2.3.2"
+	desc_2_3_2="文件无用户无组织"
+	check_2_3_2="$id_2_3_2 $desc_2_3_2"
+	info "$check_2_3_2"
+
+	for i in $(find / -xdev \( -nouser -o -nogroup \) -print);do
+		if [ -n "$i" ];then
+			warn "存在无用户无组织的文件 $i"
+			let totalWarn+=1
+		else
+			pass "不存在无用户无组织的文件"
+		fi
+	done
+
+	let totalCheck+=1
+}
+
+
 
 
 check_2
 check_2_1
 check_2_2
+check_2_3
+check_2_3_1
+check_2_3_2
