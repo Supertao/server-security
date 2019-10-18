@@ -134,6 +134,28 @@ check_2_3_3()
 }
 
 
+check_2_4()
+{
+      	log ""
+	id_2_4="2.4"
+	desc_2_4="SSH公钥密钥长度是否2048"
+	check_2_4="$id_2_4 $desc_2_4"
+	info "$check_2_4"
+
+	if [ -f "/etc/ssh//ssh_host_rsa_key" ];then
+		for i in $(ssh-keygen -lf /etc/ssh/ssh_host_rsa_key|awk '{if($1<2048)print}');do
+			if [ -n "$i" ];then
+				warn "SSH公钥密钥长度小于2048 $i"
+				let totalWarn+=1
+			else
+				pass "SSH公钥密钥长度符合要求!"
+			fi
+		done
+	fi
+	let totalCheck+=1
+
+}
+
 
 
 check_2
@@ -143,3 +165,4 @@ check_2_3
 check_2_3_1
 check_2_3_2
 check_2_3_3
+check_2_4
