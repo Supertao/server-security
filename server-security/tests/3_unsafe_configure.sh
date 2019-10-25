@@ -40,17 +40,17 @@ check_3_2(){
 	check_3_2="$id_3_2 $desc_3_2"
 	info "$check_3_2"
         
-	for i in `find / -type f \( -name "*.key" -o  -name "*.log" -o -name ".pem" \) 2>/dev/null`;do
+	for i in $(find / -type f \( -name "*.key" -o  -name "*.log" -o -name ".pem" \) 2>/dev/null );do
 
         	if [ -L $i ];then
                 	continue
         	fi
 		#pass 
-
-        	file_perm=$(stat -c %a $i)
+                #加双引号来解决文件出现单引号的问题
+        	file_perm=$(stat -c %a "$i")
         	if [ $file_perm -gt 640 ];then
 			let totalWarn+=1
-                	warn "文件（key|perm|log）权限大于640 $i $file_perm"
+                	warn "文件（key|perm|log）权限大于640: \"$i\" $file_perm"
 		fi
 	done
 	let totalCheck+=1
