@@ -27,7 +27,7 @@ warn()
 	printf "%b\n" "${bldred}[WARN]${txtrst} $1" | tee -a "$output"
 }
 
-note()
+suggest()
 {
 	printf "%b\n" "${bldylw}[note]${txtrst} $1"|tee -a "$output"
 }

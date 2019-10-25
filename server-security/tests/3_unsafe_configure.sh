@@ -42,7 +42,7 @@ check_3_2(){
         
 	for i in $(find / -type f \( -name "*.key" -o  -name "*.log" -o -name ".pem" \) 2>/dev/null );do
 
-        	if [ -L $i ];then
+        	if [ -L "$i" ];then
                 	continue
         	fi
 		#pass 

@@ -93,8 +93,36 @@ check_1_4()
 	       
 }
 
+check_1_5()
+{
+        log ""
+        id_1_5="1.5"
+        desc_1_5="脚本是否采用参数方式传递密码，可以通过ps 循环抓取密码"
+        check_1_5="$id_1_5  $desc_1_5"
+        info "$check_1_5"
+        
+	for i in `find / -name "*.sh"|xargs grep --color "pwd=\\$[[:digit:]]"`;do
+		if [ "x" != "x$i" ];then
+			let totalWarn+=1
+			warn "脚本存在参数方式传递密码：$i"
+		else
+			let totalPass+=1
+			pass "脚本不存在参数方式传递密码"
+		fi
+	 done
+
+	 let totalCheck+=1
+
+
+
+}
+
+
+
 check_1
 check_1_1
 check_1_2
 check_1_3
 check_1_4
+check_1_5
+
