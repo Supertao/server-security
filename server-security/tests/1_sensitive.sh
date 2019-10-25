@@ -24,7 +24,7 @@ check_1_1()
    fi
    ##判断文件中是否含有BEGIN RSA PRIVATE KEY
    ##再判断文件中是否含有ENCRYPTED
-   ret=`cat $i |grep -i "\-BEGIN RSA PRIVATE KEY\-"`
+   ret=`cat $i |grep -i "\-BEGIN RSA PRIVATE KEY\-" 2>/dev/null`
    if [ -n "$ret" ];then
   	 #搜索到并再次判断
          encrypted=`cat $i|grep -i "ENCRYPTED"`
