@@ -76,11 +76,11 @@ check_1_4()
 {
         log ""
         id_1_4="1.4"
-        desc_1_4="是否存在源码（java|cpp）"
+        desc_1_4="是否存在源码（java|cpp|go）"
         check_1_4="$id_1_4  $desc_1_4"
         info "$check_1_4"
         #搜索java |cpp
-	for i in `find / -type f \( -name "*.java" -o -name "*.cpp" \) 2>/dev/null`;do
+	for i in `find / -type f \( -name "*.java" -o -name "*.cpp" -o -name "*.go" \) 2>/dev/null`;do
         	if [ "x" != "x$i" ];then
 			let totalWarn+=1
 			warn "存在源码泄露（java|cpp） +$i"
