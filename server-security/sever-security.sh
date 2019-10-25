@@ -23,10 +23,8 @@ done
 usage () {
 	cat <<EOF
 	usage:${filename} {options}
-
 	-h      optional Print this help message
 	-l FILE optional Log output in FILE
-
 EOF
 }
 

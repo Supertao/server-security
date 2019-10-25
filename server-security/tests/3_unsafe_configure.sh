@@ -31,5 +31,32 @@ check_3_1(){
 	let totalCheck+=1
 
 }
+
+check_3_2(){
+
+        log ""
+	id_3_2="3.2"
+	desc_3_2="文件（cer|key|perm|log）权限是否大于640"
+	check_3_2="$id_3_2 $desc_3_2"
+	info "$check_3_2"
+        
+	for i in `find / -type f \( -name "*.key" -o  -name "*.log" -o -name ".pem" \) 2>/dev/null`;do
+
+        	if [ -L $i ];then
+                	continue
+        	fi
+		#pass 
+
+        	file_perm=$(stat -c %a $i)
+        	if [ $file_perm -gt 640 ];then
+			let totalWarn+=1
+                	warn "文件（key|perm|log）权限大于640 $i $file_perm"
+		fi
+	done
+	let totalCheck+=1
+}
+
 check_3
 check_3_1
+check_3_2
+
