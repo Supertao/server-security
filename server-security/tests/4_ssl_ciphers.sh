@@ -23,7 +23,7 @@ check_4_1()
 	continue
    fi
    ##判断文件中是否含有md5
-   ret=`openssl x509 -in  $i -text -noot |grep -i "md5WithRSAEncryption" 2>/dev/null`
+   ret=`openssl x509 -in $i -text -noout 2>/dev/null|grep -E 'sha1WithRSAEncryption|md5WithRSAEncryption' 2>/dev/null`
    if [ -n "$ret" ];then
   	 #搜索
 	 let totalWarned+=1
