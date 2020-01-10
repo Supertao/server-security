@@ -17,7 +17,7 @@ check_4_1()
    check_4_1="$id_4_1  $desc_4_1"
    info "$check_4_1"
    
-   for i in `find / -type f \( -name ".pem" \) 2>/dev/null`;do
+   for i in `find / -type f \( -name "*.pem" \) 2>/dev/null`;do
    if [ -L $i ];then
    	echo "the file is softlink!"
 	continue
