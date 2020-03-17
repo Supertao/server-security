@@ -41,6 +41,9 @@ done
 
 if [ -z $output ];then
 	output="${filename}".log
+	if [ -f $output ];then
+		rm -rf $output
+	fi	
 fi
 
 
