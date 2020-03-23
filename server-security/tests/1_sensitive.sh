@@ -17,7 +17,7 @@ check_1_1()
    check_1_1="$id_1_1  $desc_1_1"
    info "$check_1_1"
    
-   for i in `find / -type f \( -name "*.key" -o  -name "*.log" -o -name ".pem" \) 2>/dev/null`;do
+   for i in `find / -type f \( -name "*.key" -o  -name "*.log" -o -name ".pem" -o -name "*.json" \) 2>/dev/null`;do
    if [ -L $i ];then
    	echo "the file is softlink!"
 	continue
