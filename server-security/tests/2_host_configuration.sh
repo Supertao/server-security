@@ -76,7 +76,7 @@ check_2_3_1()
 	check_2_3_1="$id_2_3_1 $desc_2_3_1"
 	info "$check_2_3_1"
 
-	for i in $(cat /etc/passwd | grep "test*");do
+	for i in $(cat /etc/passwd | grep "*test*");do
 		if [ -n "$i" ];then
 			warn "存在测试账号 $i"
 			let totalWarn+=1
