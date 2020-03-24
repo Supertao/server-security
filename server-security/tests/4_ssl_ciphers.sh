@@ -34,4 +34,5 @@ check_4_1()
    let totalCheck+=1
 }
 
+check_4
 check_4_1
